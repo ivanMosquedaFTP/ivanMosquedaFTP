@@ -2,6 +2,8 @@
 <h3 align="center">I use arch btw.</h3>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=hack&duration=2000&pause=1000&color=F70000&center=true&random=true&width=435&lines=i+use+arch+btw;I+shit+on+VScode;Nvidia+can+suck+a+nigg*+D)](https://git.io/typing-svg)
 
+https://readme-typing-svg.demolab.com/demo/?font=hack&duration=2000&color=F70000&center=true&random=true&lines=i+use+arch+btw;I+shit+on+VScode;Nvidia+can+suck+a+nigg*+D
+
 <p align="center"> <a href="https://twitter.com/xtoreveftp" target="blank"><img src="https://img.shields.io/twitter/follow/xtoreveftp?logo=twitter&style=for-the-badge" alt="xtoreveftp" /></a> </p>
 
 - 🔭 I’m currently working on [my neovim config](https://github.com/ivanMosquedaFTP/nvim)
